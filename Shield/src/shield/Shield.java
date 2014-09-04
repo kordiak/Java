@@ -31,6 +31,8 @@ public class Shield {
         double y2=Math.pow(y, 2);
         
         double r=Math.sqrt(x2+y2);
+        //COMENT
+        //COMMTENS
         
         boolean result=r<=maxValue?true:false;
         return result;
