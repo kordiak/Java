@@ -130,7 +130,7 @@ public class Shield {
         
         System.out.println(factorial(3));
         
-         System.out.println(silnia(3));
+        System.out.println(silnia(3));
     }
     
 }
