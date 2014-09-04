@@ -38,6 +38,7 @@ public class Shield {
     
     public static int shoot(int n,int maxValue)
     {
+        
         int hit=0;
         for(int i=0;i<n;++i)
         {
@@ -56,7 +57,7 @@ public class Shield {
     
     public static void main(String[] args) {
         
-        int n=100000000;
+        int n=1000000;
         int hit=shoot(n,10*2);
        // double srednia=(double)hit/n;
       
